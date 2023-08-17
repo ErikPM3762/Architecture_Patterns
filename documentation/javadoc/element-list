@@ -1,0 +1,14 @@
+$dokka.format:javadoc-v1
+$dokka.linkExtension:html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/AnimalListAdapter.DataViewHolder///PointingToDeclaration/com/example/architecturepatterns/ui/featureAnimalHome/AnimalListAdapter.DataViewHolder.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/MainIntent.FetchAnimals///PointingToDeclaration/com/example/architecturepatterns/ui/featureAnimalHome/MainIntent.FetchAnimals.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/MainState.Animals///PointingToDeclaration/com/example/architecturepatterns/ui/featureAnimalHome/MainState.Animals.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/MainState.Error///PointingToDeclaration/com/example/architecturepatterns/ui/featureAnimalHome/MainState.Error.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/MainState.Idle///PointingToDeclaration/com/example/architecturepatterns/ui/featureAnimalHome/MainState.Idle.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/MainState.Loading///PointingToDeclaration/com/example/architecturepatterns/ui/featureAnimalHome/MainState.Loading.html
+com.example.architecturepatterns.data.model
+com.example.architecturepatterns.data.server
+com.example.architecturepatterns.data.server.repository
+com.example.architecturepatterns.ui
+com.example.architecturepatterns.ui.featureAnimalHome
+

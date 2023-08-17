@@ -1,0 +1,56 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.example.architecturepatterns.data.model////PointingToDeclaration/app/com.example.architecturepatterns.data.model/index.html
+$dokka.location:com.example.architecturepatterns.data.model/Animal///PointingToDeclaration/app/com.example.architecturepatterns.data.model/-animal/index.html
+$dokka.location:com.example.architecturepatterns.data.model/Animal/Animal/#kotlin.String#kotlin.String#kotlin.String/PointingToDeclaration/app/com.example.architecturepatterns.data.model/-animal/-animal.html
+$dokka.location:com.example.architecturepatterns.data.model/Animal/image/#/PointingToDeclaration/app/com.example.architecturepatterns.data.model/-animal/image.html
+$dokka.location:com.example.architecturepatterns.data.model/Animal/location/#/PointingToDeclaration/app/com.example.architecturepatterns.data.model/-animal/location.html
+$dokka.location:com.example.architecturepatterns.data.model/Animal/name/#/PointingToDeclaration/app/com.example.architecturepatterns.data.model/-animal/name.html
+$dokka.location:com.example.architecturepatterns.data.server.repository////PointingToDeclaration/app/com.example.architecturepatterns.data.server.repository/index.html
+$dokka.location:com.example.architecturepatterns.data.server.repository/AnimalRepository///PointingToDeclaration/app/com.example.architecturepatterns.data.server.repository/-animal-repository/index.html
+$dokka.location:com.example.architecturepatterns.data.server.repository/AnimalRepository/AnimalRepository/#com.example.architecturepatterns.data.server.ServerApi/PointingToDeclaration/app/com.example.architecturepatterns.data.server.repository/-animal-repository/-animal-repository.html
+$dokka.location:com.example.architecturepatterns.data.server.repository/AnimalRepository/getAnimals/#/PointingToDeclaration/app/com.example.architecturepatterns.data.server.repository/-animal-repository/get-animals.html
+$dokka.location:com.example.architecturepatterns.data.server////PointingToDeclaration/app/com.example.architecturepatterns.data.server/index.html
+$dokka.location:com.example.architecturepatterns.data.server/AnimalService///PointingToDeclaration/app/com.example.architecturepatterns.data.server/-animal-service/index.html
+$dokka.location:com.example.architecturepatterns.data.server/AnimalService/BASE_URL/#/PointingToDeclaration/app/com.example.architecturepatterns.data.server/-animal-service/-b-a-s-e_-u-r-l.html
+$dokka.location:com.example.architecturepatterns.data.server/AnimalService/api/#/PointingToDeclaration/app/com.example.architecturepatterns.data.server/-animal-service/api.html
+$dokka.location:com.example.architecturepatterns.data.server/ServerApi///PointingToDeclaration/app/com.example.architecturepatterns.data.server/-server-api/index.html
+$dokka.location:com.example.architecturepatterns.data.server/ServerApi/getAnimals/#/PointingToDeclaration/app/com.example.architecturepatterns.data.server/-server-api/get-animals.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome////PointingToDeclaration/app/com.example.architecturepatterns.ui.featureAnimalHome/index.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/AnimalListAdapter.DataViewHolder///PointingToDeclaration/app/com.example.architecturepatterns.ui.featureAnimalHome/-animal-list-adapter/-data-view-holder/index.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/AnimalListAdapter.DataViewHolder/DataViewHolder/#[Error type: Unresolved type for AnimalItemBinding]/PointingToDeclaration/app/com.example.architecturepatterns.ui.featureAnimalHome/-animal-list-adapter/-data-view-holder/-data-view-holder.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/AnimalListAdapter.DataViewHolder/bind/#com.example.architecturepatterns.data.model.Animal/PointingToDeclaration/app/com.example.architecturepatterns.ui.featureAnimalHome/-animal-list-adapter/-data-view-holder/bind.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/AnimalListAdapter///PointingToDeclaration/app/com.example.architecturepatterns.ui.featureAnimalHome/-animal-list-adapter/index.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/AnimalListAdapter/AnimalListAdapter/#java.util.ArrayList[com.example.architecturepatterns.data.model.Animal]/PointingToDeclaration/app/com.example.architecturepatterns.ui.featureAnimalHome/-animal-list-adapter/-animal-list-adapter.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/AnimalListAdapter/getItemCount/#/PointingToDeclaration/app/com.example.architecturepatterns.ui.featureAnimalHome/-animal-list-adapter/get-item-count.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/AnimalListAdapter/newAnimals/#kotlin.collections.List[com.example.architecturepatterns.data.model.Animal]/PointingToDeclaration/app/com.example.architecturepatterns.ui.featureAnimalHome/-animal-list-adapter/new-animals.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/AnimalListAdapter/onBindViewHolder/#com.example.architecturepatterns.ui.featureAnimalHome.AnimalListAdapter.DataViewHolder#kotlin.Int/PointingToDeclaration/app/com.example.architecturepatterns.ui.featureAnimalHome/-animal-list-adapter/on-bind-view-holder.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/AnimalListAdapter/onCreateViewHolder/#android.view.ViewGroup#kotlin.Int/PointingToDeclaration/app/com.example.architecturepatterns.ui.featureAnimalHome/-animal-list-adapter/on-create-view-holder.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/MainIntent.FetchAnimals///PointingToDeclaration/app/com.example.architecturepatterns.ui.featureAnimalHome/-main-intent/-fetch-animals/index.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/MainIntent///PointingToDeclaration/app/com.example.architecturepatterns.ui.featureAnimalHome/-main-intent/index.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/MainState.Animals///PointingToDeclaration/app/com.example.architecturepatterns.ui.featureAnimalHome/-main-state/-animals/index.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/MainState.Animals/Animals/#kotlin.collections.List[com.example.architecturepatterns.data.model.Animal]/PointingToDeclaration/app/com.example.architecturepatterns.ui.featureAnimalHome/-main-state/-animals/-animals.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/MainState.Animals/animals/#/PointingToDeclaration/app/com.example.architecturepatterns.ui.featureAnimalHome/-main-state/-animals/animals.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/MainState.Error///PointingToDeclaration/app/com.example.architecturepatterns.ui.featureAnimalHome/-main-state/-error/index.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/MainState.Error/Error/#kotlin.String?/PointingToDeclaration/app/com.example.architecturepatterns.ui.featureAnimalHome/-main-state/-error/-error.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/MainState.Error/error/#/PointingToDeclaration/app/com.example.architecturepatterns.ui.featureAnimalHome/-main-state/-error/error.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/MainState.Idle///PointingToDeclaration/app/com.example.architecturepatterns.ui.featureAnimalHome/-main-state/-idle/index.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/MainState.Loading///PointingToDeclaration/app/com.example.architecturepatterns.ui.featureAnimalHome/-main-state/-loading/index.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/MainState///PointingToDeclaration/app/com.example.architecturepatterns.ui.featureAnimalHome/-main-state/index.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/MainViewModel///PointingToDeclaration/app/com.example.architecturepatterns.ui.featureAnimalHome/-main-view-model/index.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/MainViewModel/MainViewModel/#com.example.architecturepatterns.data.server.repository.AnimalRepository/PointingToDeclaration/app/com.example.architecturepatterns.ui.featureAnimalHome/-main-view-model/-main-view-model.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/MainViewModel/state/#/PointingToDeclaration/app/com.example.architecturepatterns.ui.featureAnimalHome/-main-view-model/state.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/MainViewModel/userIntent/#/PointingToDeclaration/app/com.example.architecturepatterns.ui.featureAnimalHome/-main-view-model/user-intent.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/MainViewModelFactory///PointingToDeclaration/app/com.example.architecturepatterns.ui.featureAnimalHome/-main-view-model-factory/index.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/MainViewModelFactory/MainViewModelFactory/#com.example.architecturepatterns.data.server.ServerApi/PointingToDeclaration/app/com.example.architecturepatterns.ui.featureAnimalHome/-main-view-model-factory/-main-view-model-factory.html
+$dokka.location:com.example.architecturepatterns.ui.featureAnimalHome/MainViewModelFactory/create/#java.lang.Class[TypeParam(bounds=[androidx.lifecycle.ViewModel])]/PointingToDeclaration/app/com.example.architecturepatterns.ui.featureAnimalHome/-main-view-model-factory/create.html
+$dokka.location:com.example.architecturepatterns.ui////PointingToDeclaration/app/com.example.architecturepatterns.ui/index.html
+$dokka.location:com.example.architecturepatterns.ui/MainActivity///PointingToDeclaration/app/com.example.architecturepatterns.ui/-main-activity/index.html
+$dokka.location:com.example.architecturepatterns.ui/MainActivity/MainActivity/#/PointingToDeclaration/app/com.example.architecturepatterns.ui/-main-activity/-main-activity.html
+$dokka.location:com.example.architecturepatterns.ui/MainActivity/setupUI/#/PointingToDeclaration/app/com.example.architecturepatterns.ui/-main-activity/setup-u-i.html
+com.example.architecturepatterns.data.model
+com.example.architecturepatterns.data.server
+com.example.architecturepatterns.data.server.repository
+com.example.architecturepatterns.ui
+com.example.architecturepatterns.ui.featureAnimalHome
+
